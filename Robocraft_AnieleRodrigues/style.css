@@ -1,0 +1,27 @@
+#rob{
+    display: block;
+    margin: auto 330px;
+    width: 250px;
+    align-content: center;
+}
+.botao {
+    display: flex;
+    border-radius: 5px;
+    padding: 10px  ;
+    gap: 10px;
+    justify-content:center ;
+
+}
+a:hover /* permite que o "a" se torne um botão */ { 
+    background-color: #f7f7f7; 
+}
+a{
+text-decoration: none;
+padding: 10px 20px;
+color: black;
+background-color: white;
+
+}
+body{
+    background-color: #f7f7f7;
+}
